@@ -3,11 +3,9 @@ TITLE:
 Multipurpose - 100% Fully Responsive Multipurpose Website Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Labib
 
-Website: https://freehtml5.co/
-Twitter: https://twitter.com/fh5co
-Facebook: https://facebook.com/fh5co
+Website: https://www.behance.net/labibzunaedy143
 
 
 CREDITS:
